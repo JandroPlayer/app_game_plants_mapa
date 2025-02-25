@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "400161299022",
+    "project_id": "flutterfire-ui-codelab-31d6b",
+    "storage_bucket": "flutterfire-ui-codelab-31d6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400161299022:android:7c6b101fc4f27ac2d3411f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400161299022-j96m2ua462rjjnv9fkvvttp3g5jnucv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8BisFV19-kMjzlEq9WWMgp2U85R6gGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400161299022-j96m2ua462rjjnv9fkvvttp3g5jnucv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400161299022-4evgpalau2p40ksi767i688qm98801jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400161299022:android:6ac49a3afcb1aa66d3411f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_loggin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400161299022-j96m2ua462rjjnv9fkvvttp3g5jnucv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8BisFV19-kMjzlEq9WWMgp2U85R6gGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400161299022-j96m2ua462rjjnv9fkvvttp3g5jnucv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400161299022-4evgpalau2p40ksi767i688qm98801jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
